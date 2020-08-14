@@ -3,4 +3,4 @@
 #### A simple way of improving planing, along  with good insight.
 #### Offers customizable features to fit anyone.
 #### Maybe all this will eventually make sense.
-#### Tomorrow I'll document mpore projects 
+####  
