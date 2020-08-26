@@ -3,4 +3,4 @@
 #### A simple way of improving planing, along  with good insight.
 #### Offers customizable features to fit anyone.
 #### Getting started. 
-#### Planning mostly ....
+#### Planning mostly 
